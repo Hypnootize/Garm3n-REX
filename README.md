@@ -1,6 +1,6 @@
 <div align="center">
 
-# Garm3n-REX 
+# Garm3n REX 
 ### By Garm3n
 
 **[SCREENSHOTS](../screenshots/showcase.md)** -
